@@ -19,13 +19,13 @@ Module, light sensor
 
 # 기능소개
 
-#### `1. [ 스마트팜 목업]`   
+### `1. [ 스마트팜 목업]`   
 
-<img src="./readme_img/목업.png" width="500px" height="300px" alt="add"><br/>
+<img src="./readme_img/목업.jpg" width="500px" height="300px" alt="add"><br/>
 
 ### `2. [ 연결 확인 및 목업]`   
 
-<img src="./readme_img/소스와목업.png" width="500px" height="300px" alt="list"><br/>
+<img src="./readme_img/소스와목업.jpg" width="500px" height="300px" alt="list"><br/>
 
 ### `3. [ 각종 센서 연결 모습]`   
 
